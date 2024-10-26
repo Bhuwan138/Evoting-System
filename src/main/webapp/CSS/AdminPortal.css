@@ -1,0 +1,16 @@
+.bg-dark-color {
+  background-color: #29363c;
+}
+.gradient-bg-green {
+  background: linear-gradient(to bottom, #5fb874, #2ea760);
+}
+.gradient-bg-red {
+  background: linear-gradient(to bottom, #d54d3d, #d24333);
+}
+.bg-light-half {
+  background-color: #d6d3dd;
+}
+
+.hr-w {
+  width: 90%;
+}
